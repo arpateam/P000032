@@ -21,3 +21,6 @@
 
 5. EVALUASI & PENYERAHAN HASIL ANALASIS PROJECT 2
 - Hasilnya cukup bagus, websitenya bisa diakses di laman https://www.teakwooders.com
+
+6. EVALUASI HASIL PROSES MAGANG
+Setelah magang di #ARPATEAM banyak hal yang saya dapatkan, terutama bagaimana cara menganalisis suatu website sebelum masuk proses produksi.
