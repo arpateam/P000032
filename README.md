@@ -14,3 +14,7 @@
 
 3. EVALUASI & PENYERAHAN HASIL ANALASIS PROJECT 1
 - Hasilnya cukup bagus, websitenya bisa diakses di laman https://nisnasbungatelang.com
+
+4. BRIEFING PROJECT 2
+- Project kedua ini saya diperintahkan untuk menganalisis website https://homade.id
+- Dengan hal yang di analisis sama seperti Project 1
