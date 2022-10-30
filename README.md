@@ -11,3 +11,6 @@
 
 2. SUDAH MELAKSANAKAN KEGIATAN MEMAHAMI JOBDESC SYSTEM ANALYST
 - Pada waktu ini saya di perintahkan untuk memahami tentang Jobdesc System Analyst dan mendiskusikan dengan pihak #ARPATEAM terkait jobdesc ini
+
+3. EVALUASI & PENYERAHAN HASIL ANALASIS PROJECT 1
+- Hasilnya cukup bagus, websitenya bisa diakses di laman https://nisnasbungatelang.com
